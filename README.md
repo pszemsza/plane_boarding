@@ -9,6 +9,12 @@ First, lets jump straight to the results - the distribution of boarding times fo
 
 ![plot](https://github.com/pszemsza/plane_boarding/assets/65168262/0d5bec19-4c5a-419f-aee8-fa8612fecf5d)
 
+## How to use
+This repo contains the following files:
+* plane_boarding.py - simulation library
+* main.py - runs the simulations
+* animate.py - Processing.py sketch used to create animations shown below
+
 
 ## Boarding methods
 
